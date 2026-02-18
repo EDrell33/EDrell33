@@ -10,16 +10,16 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
+- **[Static Malware Analysis Lab](https://github.com/EDrell33/Static-Malware-Analysis-Lab)**
+- **[Dynamic Malware Analysis Lab](https://github.com/EDrell33/Dynamic-Malware-Analysis-Lab/tree/main)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/EDrell33/threat-hunting-scenario-tor)**
 
 <hr/>
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[youtube]: https://www.youtube.com/c/___________
 [linkedin]: https://linkedin.com/in/elliot-dickrell___________
 
 <!--
