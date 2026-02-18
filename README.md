@@ -6,13 +6,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/EDrell33/Vulnerability-Management-Project)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Static Malware Analysis Lab](https://github.com/EDrell33/Static-Malware-Analysis-Lab)**
 - **[Dynamic Malware Analysis Lab](https://github.com/EDrell33/Dynamic-Malware-Analysis-Lab/tree/main)**
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/EDrell33/threat-hunting-scenario-tor)**
 
 <hr/>
 
