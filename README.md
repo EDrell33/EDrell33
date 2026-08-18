@@ -7,6 +7,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Static Malware Analysis Lab](https://github.com/EDrell33/Static-Malware-Analysis-Lab)**
 - **[Dynamic Malware Analysis Lab](https://github.com/EDrell33/Dynamic-Malware-Analysis-Lab/tree/main)**
+- **[AI Assisted SOC Triage Lab](https://github.com/EDrell33/Ai-Assisted-SOC-Triage-Pipeline)**
 
 <hr/>
 
